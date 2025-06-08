@@ -1,0 +1,25 @@
+h1{
+    background-color: aqua;
+    display: block;
+    margin:30px
+
+}
+a{
+    background-color: blueviolet;
+    display:inline;
+     visibility:hidden;
+    display:inline-block;
+}
+div{
+    height:100vh;
+}
+.div{
+    background-image: url("https://unsplash.com/photos/stylish-dining-room-featuring-a-unique-light-fixture-u7a3v_R2UUA");
+    background-position:bottom-right;
+    background-position: center-center;
+background-repeat:no-repeat;
+background-size:cover;
+background-clip: border-box;
+background-attachment: fixed;
+}
+

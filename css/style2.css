@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap');
+
+h1{
+    background-color: blue;
+}
+h2{
+    color:rgb(66,0,43)
+}
+h3{
+    color: blueviolet;
+}
+h4{
+    color: #000ff0;
+}
+h5{
+    color: hsl(236, 66%,53%);
+}
+p{
+    .details{}
+    font-size:18px;
+    font-weight: 900;
+    font-family:cursive ;
+    letter-spacing:4px;
+    text-align:center;
+    word-spacing:6px;
+    text-decoration:underline;
+    text-transform: capitalize;
+    text-wrap: balance;
+    word-break: normal;
+    font-style: italic;
+}
+.one{
+    font-family:"Winky+Rough" ;
+    background-color: aqua;
+}

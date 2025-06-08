@@ -1,0 +1,90 @@
+/* flex and grid */
+/*
+.parent{
+    background-color: blue;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    justify-content: left;
+    justify-content: end;
+    justify-content: space-evenly;
+    justify-content: space-between;
+justify-content: space-around;
+align-items: center;
+gap: 107px;
+flex-direction:column;
+flex-direction: row-reverse;
+flex-wrap:wrap;
+}
+
+
+img{
+    width: 250px;
+    height: 250px;
+}
+
+
+.child{
+    width: 300px;
+    display: flex;
+    height:300px;
+    margin:30px;
+    flex:1;
+     background-color: aqua;
+align-self:flex-start;
+
+
+
+    }
+
+
+
+.childs{
+    width: 300px;
+    display: flex;
+    height:300px;
+    margin:30px;
+    flex:0;
+     background-color: aqua;
+align-self: flex-end;
+
+    }
+*/
+
+.child{
+    width: 400px;
+    height: 400px;
+
+}
+
+
+.parent{
+    width: 100vh;
+    height:100vh;
+    background-color: yellow;
+    gap:100px;
+    grid-template-columns:1fr 1fr 1fr ;
+    grid-template-rows: 1fr 1fr 1fr;
+    justify-content: center;
+    justify-items: center;
+    
+
+}
+
+
+
+img{
+    height: 300px;
+    width: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+

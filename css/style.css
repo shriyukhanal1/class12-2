@@ -1,0 +1,27 @@
+
+
+/*what it means 
+h2->selector*/
+/* code should be in curly bracket */
+/* selector
+1. universal selector
+2.element selector
+*/
+*{
+    background-color: antiquewhite;
+}
+
+h2{
+    text-align:right;
+    background-color:aqua;
+    color: peru;}
+
+    class selector
+    .abc{
+        color: blue;
+    }
+    id selector
+    #one{
+        backgrouund-color: blue;
+        color:rgb(255,0,255);
+    }
